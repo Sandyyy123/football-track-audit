@@ -1,3 +1,5 @@
+> **Proprietary - All Rights Reserved.** Licensed to Sandeep Grover. No reuse, copying, modification, or distribution without prior written permission. See LICENSE.
+
 # Football track audit
 
 A small measurement-validity component using constructed pitch coordinates. It is not a football detector, calibration algorithm, trained model or real-match accuracy benchmark.
